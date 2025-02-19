@@ -2,7 +2,7 @@
 - 👀 I’m lokking for my first job to improve my experiences
 - 🌱 I’m currently learning python (just a start)
 - 📫 you can reach me with my e-mail : caetanoramon678@gmail.com
-- 😄 Pronouns: He/HIM
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m to excited to start my journey
 
 <!---
