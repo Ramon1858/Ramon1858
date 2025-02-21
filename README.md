@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python (just a start)
 - 📫 you can reach me with my e-mail : caetanoramon678@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m to excited to start my journey
+- ⚡ Fun fact: Brazilian but speak English fluently
 
 <!---
 Ramon1858/Ramon1858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
